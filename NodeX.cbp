@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Character.h" />
+		<Unit filename="Game.h" />
+		<Unit filename="Maze.h" />
+		<Unit filename="Settings.h" />
 		<Unit filename="main.cpp" />
-		<Extensions />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

@@ -1,4 +1,4 @@
 
-//Classes of character, player and monster
+//Classes of Character, player and monster
 using namespace std;
 

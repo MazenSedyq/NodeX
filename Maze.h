@@ -1,5 +1,3 @@
 
-//Maze Logic
+//Maze logic
 using namespace std;
-
-
