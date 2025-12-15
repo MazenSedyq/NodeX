@@ -32,10 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Character.h" />
+		<Unit filename="Entity.h" />
 		<Unit filename="Game.h" />
+		<Unit filename="LevelSetting.h" />
 		<Unit filename="Maze.h" />
-		<Unit filename="Settings.h" />
+		<Unit filename="Move.h" />
+		<Unit filename="Screen.h" />
+		<Unit filename="Utils.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

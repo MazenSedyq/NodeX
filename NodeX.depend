@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1765787824 source:c:\users\eng_mazen\downloads\my_github\nodex\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Screen.h"
+
+1765757988 c:\users\eng_mazen\downloads\my_github\nodex\maze.h
+	"Entity.h"
+	"Utils.h"
+
+1765755528 c:\users\eng_mazen\downloads\my_github\nodex\entity.h
+	"Utils.h"
+
+1765739307 c:\users\eng_mazen\downloads\my_github\nodex\settings.h
+	<windows.h>
+
+1765792339 c:\users\eng_mazen\downloads\my_github\nodex\screen.h
+	"Game.h"
+	"LevelSetting.h"
+	"Utils.h"
+
+1765757708 c:\users\eng_mazen\downloads\my_github\nodex\game.h
+	"random"
+	<conio.h>
+	"Entity.h"
+	"Maze.h"
+	"windows.h"
+	"Move.h"
+	"Utils.h"
+
+1765759718 c:\users\eng_mazen\downloads\my_github\nodex\levelsetting.h
+
+1765787677 c:\users\eng_mazen\downloads\my_github\nodex\move.h
+	"Entity.h"
+	"Utils.h"
+	"Maze.h"
+
+1765761643 c:\users\eng_mazen\downloads\my_github\nodex\utils.h
+	<windows.h>
+
